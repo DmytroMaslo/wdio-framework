@@ -1,7 +1,7 @@
 
 
 ### webriverio lib
-I don't like now it looks
+I don't like how it looks
 ```js
 let headerNavigateToRegisterButto = await (await $('.user_buttons')).$('button:nth-child(1)') 
 ```
